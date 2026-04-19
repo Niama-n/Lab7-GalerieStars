@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Thème de base sans ActionBar par défaut -->
+    <style name="Theme.StarsGallery" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/red_primary</item>
+        <item name="colorPrimaryDark">@color/red_dark</item>
+        <item name="colorAccent">@color/star_blue</item>
+        <item name="android:windowBackground">@color/background_pink</item>
+    </style>
+</resources>
