@@ -7,6 +7,10 @@ Vous pouvez visualiser le test de l'application ici :
 
 
 
+https://github.com/user-attachments/assets/8c93c429-6a91-4db2-8b4b-ca0f01b0201c
+
+
+
 Le projet illustre la maîtrise des composants Android modernes, la gestion du cycle de vie, et l’interactivité entre les couches logique et graphique.
 C est une application Android moderne permettant de consulter, rechercher et évaluer une liste de célébrités.
 L’objectif de ce TP est de créer une application Android complète permettant d’afficher une galerie de stars (personnalités célèbres) sous forme de liste avec images circulaires, notes, filtrage par nom, et animations d’introduction.
